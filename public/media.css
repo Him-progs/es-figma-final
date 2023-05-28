@@ -1,0 +1,23 @@
+@media only screen and (max-width: 991px) {
+    .category-items {
+        max-width: 500px;
+    }
+  }
+
+  @media only screen and (max-width: 768px) {
+    
+  }
+
+  @media only screen and (max-width: 600px) {
+    .category-items {
+        max-width: 300px;
+    }
+
+    .nav-items {
+        justify-content: center;
+    }
+
+    .nav-items a, .nav-social-media-items {
+        display: none;
+    }
+  }

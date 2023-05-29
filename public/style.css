@@ -152,7 +152,7 @@ nav {
   text-overflow: ellipsis;
   display: -webkit-box;
   -webkit-box-orient: vertical;
-  -webkit-line-clamp: 2;
+  -webkit-line-clamp: 3;
 }
 
 .slick-slider .slick-slide {
@@ -185,7 +185,14 @@ hr {
   color: #f75454;
   font-size: 12px;
 }
-
+p.page-readers {
+  position: absolute;
+  width: 130px;
+  height: 18px;
+  left: 1381px;
+  color : #f75454;
+  margin-top: -29px;
+}
 .views-count svg {
   vertical-align: text-top;
   font-size: 14px;

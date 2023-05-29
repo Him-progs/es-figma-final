@@ -20,14 +20,18 @@
     .nav-items a, .nav-social-media-items {
         display: none;
     }
-    .page-readers {
-     /* position: absolute; */
-    margin-left: 238px;
-    line-height: 18px;
-    font-weight: 500;
-    font-size: 14px;
-    font-style: normal;
-    font-family: 'Roboto';
+    p.page-readers {
+        /* position: absolute; */
+       
+            /* position: absolute; */
+           margin-left: 238px;
+           line-height: 18px;
+           font-weight: 500;
+           font-size: 14px;
+           font-style: normal;
+           font-family: 'Roboto';
+           left: 35px
+           }
     }
-}
+
     

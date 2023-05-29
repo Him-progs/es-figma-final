@@ -260,6 +260,7 @@ const Trending = () => {
     <div className="trending-cards">
     {/* <div className="col-md-12"> */}
     <h3 className="trending-title"><span class="iconify" data-icon="ic:round-star"></span>Trending</h3>
+    <p className="page-readers"><span class="iconify" data-icon="mdi:eye"></span>22k live readers</p>
     <Slider {...settings}>
       {trending?.map((item) => (
         item?.urlToImage ?

@@ -185,11 +185,11 @@ hr {
   color: #f75454;
   font-size: 12px;
 }
-p.page-readers {
+.page-readers {
   position: absolute;
   width: 130px;
   height: 18px;
-  left: 1381px;
+  left: 1050px;
   color : #f75454;
   margin-top: -29px;
 }
